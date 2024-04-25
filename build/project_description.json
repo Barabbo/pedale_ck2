@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "tusb_midi",
-    "project_version":    "0d7273a",
+    "project_version":    "aefe8ee-dirty",
     "project_path":       "C:/Users/j/Documents/merds/pedale_ck2",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.2.1",
     "build_dir":          "C:/Users/j/Documents/merds/pedale_ck2/build",
