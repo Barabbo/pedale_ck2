@@ -45,10 +45,10 @@ enum usb_endpoints {
 static const char* s_str_desc[5] = {
     // array of pointer to string descriptors
     (char[]){0x09, 0x04},  // 0: is supported language is English (0x0409)
-    "TinyUSB",             // 1: Manufacturer
-    "TinyUSB Device",      // 2: Product
-    "123456",              // 3: Serials, should use chip ID
-    "Example MIDI device", // 4: MIDI
+    "BobaCorp",             // 1: Manufacturer
+    "Controllino",      // 2: Product
+    "238429",              // 3: Serials, should use chip ID
+    "Pedale", // 4: MIDI
 };
 
 /**
